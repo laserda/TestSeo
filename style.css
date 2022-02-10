@@ -466,6 +466,7 @@ h4 {
     margin:auto;
     width: 300px;
     height: 300px;
+    object-fit: cover;
 }
 
 .portfolio-row {
